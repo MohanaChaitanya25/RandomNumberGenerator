@@ -1,4 +1,4 @@
-In this project, let's build a **Random Number Generator** by applying the concepts we have learned till now.
+# Random Number Generator
 
 
 <br/>
