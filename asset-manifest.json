@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/RandomNumberGenerator/static/css/main.42906023.chunk.css",
+    "main.css": "/RandomNumberGenerator/static/css/main.17666abd.chunk.css",
     "main.js": "/RandomNumberGenerator/static/js/main.37a59479.chunk.js",
     "main.js.map": "/RandomNumberGenerator/static/js/main.37a59479.chunk.js.map",
     "runtime-main.js": "/RandomNumberGenerator/static/js/runtime-main.ec106498.js",
@@ -8,13 +8,13 @@
     "static/js/2.edd31087.chunk.js": "/RandomNumberGenerator/static/js/2.edd31087.chunk.js",
     "static/js/2.edd31087.chunk.js.map": "/RandomNumberGenerator/static/js/2.edd31087.chunk.js.map",
     "index.html": "/RandomNumberGenerator/index.html",
-    "static/css/main.42906023.chunk.css.map": "/RandomNumberGenerator/static/css/main.42906023.chunk.css.map",
+    "static/css/main.17666abd.chunk.css.map": "/RandomNumberGenerator/static/css/main.17666abd.chunk.css.map",
     "static/js/2.edd31087.chunk.js.LICENSE.txt": "/RandomNumberGenerator/static/js/2.edd31087.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ec106498.js",
     "static/js/2.edd31087.chunk.js",
-    "static/css/main.42906023.chunk.css",
+    "static/css/main.17666abd.chunk.css",
     "static/js/main.37a59479.chunk.js"
   ]
 }
